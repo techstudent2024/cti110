@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Optimus Prime</h1>
+<img src="prime net1.jfif" width="250"><img src="prime2.1.webp"width="250">
+
+
+
+
+ 
+    
+    
+    
+    <p>
+Optimus Prime, also known as Orion Pax, embodies strong moral values, exceptional leadership, and strategic prowess. Equipped with advanced weaponry and martial arts skills, he champions justice and peaceful coexistence with humans. As bearer of the matrix of Leadership, he leads the Autobots, engaged in an eternal conflict against the Decepticons. Originating from the ancient Dynasty of Primes, Optimus Prime's selfless sacrifice and rallying cry of "Till All are One" were pivotal in defeating Unicron. Reborn as Orion Pax, he embraced his new identity, only to reclaim his role as Optimus Prime to confront the Decepticons led by his former friend, Megatron, igniting the Great War on Cybertron. While his origins and persona may vary across different storylines, this depiction remains consistent throughout iterations of the Transformers universe.</p>
+
+
+  <h1>Leader of the Autobots</h1> 
+
+  <img src="Autobots.webp" width="250"><p>The Autobots are a fictional faction of sentient robots in the Transformers multimedia franchise. The Autobots are living robots from the planet Cybertron who, like most Transformers, are each imbued with a unique "life force" known as a "spark." Led by Optimus Prime in most stories, the Autobots believe "freedom is the right of all sentient life" and are often engaged in a civil war with the Decepticons, a faction of transformers dedicated to military conquest and usually headed by Megatron.In a mirror universe portrayed in Transformers: Shattered Glass, the Autobots are villains opposed by the heroic Decepticons</p>
+  <img src="cybertron.jpg" width="350">
+  <h1>Cybertron</h1>
+
+
+  <p>Cybertron is a fictional planet in the Transformers franchise that serves as the homeworld of the Transformers and their creator, Primus. It's a technological world made of shining metal, with vast metallic plains, towering cities, spiraling metal mountains, and bottomless chasms. The planet is located in the Alpha Centaurai star system.</p>
+<h1>Prime is now living a normal life.</h1>
+  <img src="openart-image_iE_sdZcl_1724781637153_raw.jpg" width="350"><img src="openart-image_B76T26Ws_1724781395131_raw.jpg" width="250">
+  <img src="openart-image_-x7-bfky_1724781132636_raw.jpg" width="350"><img src="openart-image_HfYawvaC_1724781132671_raw.jpg" width="250">
+  <img src="openart-image_Y1T-Qt-i_1724781250732_raw.jpg" width="300"><img src="openart-image__Sj3mKNl_1724781543138_raw.jpg" width="300">
+ <script src="script.js"></script> 
+
+  <!-- link for more info -->
+
+  <!-- footer -->
+  <p style="text-align: center;">created by: Isadeen Adams </p>
+ </body>
+
+</html>
