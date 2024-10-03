@@ -32,7 +32,7 @@ meal_total = burger_total + fry_total
 #emjipeddia has emojis to copy/paste
 print("-" * 20)
 print(num_burgers,"🍔 burger\t$", format(burger_total,".2f"))
-print(num_fries,"🍟 fry\t\t$", fry_total)
+print(num_fries," 🍟 fry\t\t$", fry_total)
 print("-" * 20)
 print("Total\t$", format(meal_total, ".2f"))
 
